@@ -35,6 +35,14 @@
     },
     "author": {
       "model": "author"
+    },
+    "categories": {
+      "collection": "categories"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title",
+      "required": true
     }
   }
 }

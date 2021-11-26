@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_form_tests",
+  "info": {
+    "name": "test",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "part": {
+      "type": "richtext"
+    },
+    "dateofbirth": {
+      "type": "datetime"
+    }
+  }
+}
